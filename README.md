@@ -35,7 +35,7 @@
 
  Passos
  
- 1. Importar e tratar as basas de dados
+ 1. Importar e tratar as bases de dados
  2. Criar um arquivo para cada loja
  3. Salvar o backup nas pastas
  4. Calcular os indicadores
